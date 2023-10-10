@@ -39,6 +39,7 @@
   <div class="row justify-content-center align-items-center" style="height: 100vh;">
     <div class="col-12 text-center">
       <p class="fs-1">THIS IS OUR HOME PAGE</p>
+      <h3>click the manage button</h3>
     </div>
   </div>
 </div>
