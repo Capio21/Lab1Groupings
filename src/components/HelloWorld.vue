@@ -24,7 +24,22 @@
   </div>
 </nav>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="d-grid gap-2 d-md-flex justify-content-md-center">
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
+</div>
 <div class="container">
   <div class="row justify-content-center align-items-center" style="height: 100vh;">
     <div class="col-12 text-center">
@@ -33,7 +48,6 @@
     </div>
   </div>
 </div>
-
 
 
 </template>
